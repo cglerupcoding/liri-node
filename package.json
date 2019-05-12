@@ -1,0 +1,26 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "Liri-node is a Node text version of Siri designed to take in parameters and return data",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cglerupcoding/liri-node.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Christopher Glerup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cglerupcoding/liri-node/issues"
+  },
+  "homepage": "https://github.com/cglerupcoding/liri-node#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
